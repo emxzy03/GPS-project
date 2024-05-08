@@ -16,11 +16,11 @@
 #include <BlynkSimpleEsp32.h>
 
 //connect wifi
-const char* ssid = "Real Ez";
-const char* pws = "a0870573599";
+const char* ssid = "user";
+const char* pws = "passxxx";
 
 //Token Line
-const String LINE_TOKEN = "3LVc6orZq7qKcssawRcHCB2ovmOKQhAboRDZvm5tr6g";
+const String LINE_TOKEN = "xxxxxx";
 
 
 //variable 
